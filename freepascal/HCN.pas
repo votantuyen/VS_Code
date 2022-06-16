@@ -18,7 +18,7 @@ procedure Ve_HCN (chdai, chrong: integer);
     end;
 begin {chương trình chính}
     clrscr;
-    Ve_HCN(25,10);              {Vẽ hình chữ nhật kích thước 20x10}
+    Ve_HCN(25,10);              {Vẽ hình chữ nhật kích thước 20x10 Hello}
     writeln; writeln;
     Ve_HCN(5,10);
     readln;
